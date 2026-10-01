@@ -12,3 +12,6 @@ Ejecuta `python3 -m http.server 8000` y abre http://localhost:8000.
 
 ## Contenido y accesibilidad
 Marca ficticia para portfolio. Los controles y recorridos funcionan localmente. No hay pagos, reservas ni envíos reales. Fotografías externas de Unsplash; el sitio requiere conexión para cargarlas. Movimiento reducido mediante prefers-reduced-motion. Sin flechas ni asteriscos decorativos. HTML semántico, controles de teclado y diseños móviles específicos.
+
+## Cinta de portada
+Mensajes gastronómicos con dos grupos idénticos de ancho adaptable. Animación lineal continua de 38 segundos por ciclo, sin huecos ni salto al reiniciar. Con movimiento reducido se muestra una sola copia estática.
